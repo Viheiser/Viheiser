@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @Whyck, I’m currently working as a fullstack develop and mostly use C# and react typescript.
+- 👋 Hi, I’m @WhykeCodes, I’m currently working as a fullstack develop and mostly use C# and react typescript.
